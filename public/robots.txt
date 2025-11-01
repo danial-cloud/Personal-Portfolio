@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://muhammad-shehzad.com
+
+# Sitemaps
+Sitemap: https://muhammad-shehzad.com/sitemap.xml
+Sitemap: https://muhammad-shehzad.com/server-sitemap.xml
